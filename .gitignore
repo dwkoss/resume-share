@@ -1,0 +1,5 @@
+node_modules
+dist/resume.html
+dist/resume.pdf
+.DS_Store
+

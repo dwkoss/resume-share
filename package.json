@@ -1,0 +1,28 @@
+{
+  "name": "resume-share",
+  "version": "0.0.0",
+  "description": "Share resume as different formats, ie markdown, pdf, etc",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp && node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dwkoss/resume-share.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Daniel Koss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwkoss/resume-share/issues"
+  },
+  "homepage": "https://github.com/dwkoss/resume-share",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-remarkable": "~1.1.2",
+    "phantomjs-pdf": "~0.1.2"
+  }
+}
