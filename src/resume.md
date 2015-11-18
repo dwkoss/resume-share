@@ -16,7 +16,8 @@ Seeking a full stack software development position offering dynamic responsibili
 **FactSet Research Systems - New York, NY**  
 **Software Developer III - June 2013 - present**
 * Architected and lead development effort on a new API used by FactSet’s GIPS application to consolidate logic provided by several different services
-* Designed and implemented FactSet’s first Node JS application in an effort to experiment with newer technologies
+* Designed and implemented FactSet’s first NodeJS application in an effort to experiment with newer technologies
+* Wrote Yeoman generator used by all NodeJS services and libraries that must comply with FactSet's security standards
 * Lead SQL development efforts for the Asset Allocation application
 
 **Liberty Mutual - Portsmouth, NH**  
@@ -36,11 +37,11 @@ Seeking a full stack software development position offering dynamic responsibili
 
 ## Technologies
 **Languages**: Javascript, C++, Java, Transact-SQL, CSS  
-**Platforms**: NodeJS, AngularJS, Express, Yeoman, Bootstrap, npm, bower  
+**Platforms**: NodeJS, AngularJS, Express, Yeoman, Bootstrap, PhantomJS, npm, bower  
 **Libraries**: Lodash, jQuery, Unirest, Grunt, Q, Moment.js, winston, forever, Karma, Jasmine  
 **Tools**: Gitlab, Heroku, Perforce, TortoiseSVN, vim  
 **Envornments**: Linux, Mac OSX, Windows, Bash  
-**Software**: WebStorm, Atom, Sublime Text, Sql Server Management Studio, Eclipse, Netbeans
+**Software**: WebStorm, Atom, Sublime Text, Sql Server Management Studio, Eclipse, Netbeans  
 
 ## Education
 Rochester Institute of Technology 2013  
