@@ -40,7 +40,6 @@ Seeking a full stack software development position offering dynamic responsibili
 **Platforms**: NodeJS, AngularJS, Express, Browserify, Webpack, Yeoman, Bootstrap, PhantomJS, npm, bower  
 **Libraries**: Lodash, jQuery, Unirest, Grunt, Q, Moment.js, winston, forever, Karma, Jasmine  
 **Tools**: Gitlab, Heroku, Perforce, TortoiseSVN, vim  
-**Envornments**: Linux, Mac OSX, Windows, Bash  
 **Software**: WebStorm, Atom, Sublime Text, Sql Server Management Studio, Eclipse, Netbeans  
 
 ## Education
